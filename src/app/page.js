@@ -17,7 +17,7 @@ import ExperienceIcon from "@/assets/icon/ExperienceIcon";
 import CustomTemplateICon from "@/assets/icon/CustomTemplateICon";
 import SupportIcon from "@/assets/icon/SupportIcon";
 import ComplianceIcon from "@/assets/icon/ComplianceIcon";
-import HighQualityIcon from "@/assets/icon/highQualityIcon";
+import HighQualityIcon from "@/assets/icon/HighQualityIcon";
 import ProductivityIcon from "@/assets/icon/ProductivityIcon";
 import Pricing from "@/components/Pricing";
 import Accordian from "@/components/Accordian";
