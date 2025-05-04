@@ -53,8 +53,11 @@ export default function Home() {
   ];
   return (
     <>
+      {/* Banner Section */}
       <Banner />
+      {/* Due to Images Issue I commit this Section */}
       {/* <PojectPreview /> */}
+      {/* Client Section */}
       <section className="our-client">
         <div className="container">
           <h2>Our Clients</h2>
@@ -69,6 +72,7 @@ export default function Home() {
           </marquee>
         </div>
       </section>
+      {/* feature Section */}
       <section className="feature-section">
         <div className="container">
           <div className="flex flex-col items-center">
@@ -171,6 +175,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      {/* choose Section */}
       <section className="choose-section">
         <div className="container">
           <div className=" flex flex-col items-center">
@@ -242,6 +247,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      {/* explore Section */}
       <section className="explore-section">
         <div className="container">
           <div className="flex flex-col items-center">
@@ -260,6 +266,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      {/* explore Section */}
       <section className="explore-section">
         <div className="container">
           <div className="flex flex-col items-center">
@@ -270,6 +277,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      {/* customer Section */}
       <section className="customer-section">
         <div className="container">
           <div className=" flex flex-col items-center">
@@ -296,6 +304,7 @@ export default function Home() {
           </marquee>
         </div>
       </section>
+      {/* getstart Section */}
       <section className="getstart-section">
         <div className="container">
           <div className="flex flex-col items-center">

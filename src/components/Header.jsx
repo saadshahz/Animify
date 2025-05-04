@@ -15,16 +15,16 @@ export default function Header() {
             <nav>
               <ul className="flex justify-between items-center">
                 <li>
-                  <Link href={"#"}>Home</Link>
+                  <Link href={"/"}>Home</Link>
                 </li>
                 <li>
-                  <Link href={"#"}>Template</Link>
+                  <Link href={"/hello"}>Template</Link>
                 </li>
                 <li>
-                  <Link href={"#"}>Pricing</Link>
+                  <Link href={"/hello"}>Pricing</Link>
                 </li>
                 <li>
-                  <Link href={"#"}>About</Link>
+                  <Link href={"/hello"}>About</Link>
                 </li>
               </ul>
             </nav>

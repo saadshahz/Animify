@@ -74,8 +74,18 @@ header .naviagtion ul li a:hover {
   font-size: 14px;
   box-shadow: rgba(23, 120, 255, 1) 0px 0px 37px -12px inset,
     #1778ff 0px 18px 36px -18px inset;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+.btn-primary-style:hover {
+  transform: translate(0px, 5px);
+}
+.btn-secondary-style:hover{
+  transform: translate(0px, 5px);
 }
 .btn-secondary-style {
+  transition: 0.5s ease-in-out;
+  cursor: pointer;
   border: 1px solid rgb(66, 66, 66);
   border-radius: 15px;
   padding: 10px 25px;
